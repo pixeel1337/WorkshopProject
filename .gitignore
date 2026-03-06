@@ -25,3 +25,4 @@ ENV/
 .python-version
 .requirements.txt
 pyproject.toml
+uv.lock
