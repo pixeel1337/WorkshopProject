@@ -23,6 +23,6 @@ ENV/
 
 # uv - pliki specyficzne dla narzędzia (opcjonalnie, ale warto mieć porządek)
 .python-version
-.requirements.txt
+requirements.txt
 pyproject.toml
 uv.lock
