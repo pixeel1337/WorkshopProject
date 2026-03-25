@@ -26,3 +26,4 @@ ENV/
 requirements.txt
 pyproject.toml
 uv.lock
+.gitignore
